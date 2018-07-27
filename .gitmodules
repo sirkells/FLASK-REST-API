@@ -1,3 +1,6 @@
 [submodule "imageClassAPI"]
 	path = imageClassAPI
 	url = https://github.com/sirkells/Image-Classification-API
+[submodule "textSimilarityAPI"]
+	path = textSimilarityAPI
+	url = https://github.com/sirkells/similarityAPI
