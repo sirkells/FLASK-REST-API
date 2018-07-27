@@ -1,0 +1,3 @@
+[submodule "imageClassAPI"]
+	path = imageClassAPI
+	url = https://github.com/sirkells/Image-Classification-API
