@@ -1,2 +1,2 @@
 # myAPI
-All my python API projects
+All my python RESTAPI projects
